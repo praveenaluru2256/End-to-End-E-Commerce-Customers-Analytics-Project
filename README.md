@@ -6,7 +6,7 @@ The solution ingests raw CSV data into Azure Data Lake Storage Gen2, processes i
 
 This project simulates a real-world enterprise data platform used for customer analytics and business intelligence.
 
-* **Business Objective:**
+  #Business Objective
 
   The goal of this project is to:
 
