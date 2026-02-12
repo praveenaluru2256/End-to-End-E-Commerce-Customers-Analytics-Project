@@ -64,7 +64,7 @@ This project simulates a real-world enterprise data platform used for customer a
     -  Iterates through each file
     -  Ensures scalable ingestion
 
-    **Copy Activity**
+       **Copy Activity**
 
     -  Transfers files from ADLS → Lakehouse Bronze
 
