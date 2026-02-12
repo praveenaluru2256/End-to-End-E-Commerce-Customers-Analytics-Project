@@ -99,7 +99,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
   # Gold Layer (Business Aggregations)
 
-    - Created business-ready aggregated tables:
+    -  Created business-ready aggregated tables:
 
 KPIs Generated:
 
