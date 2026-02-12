@@ -64,57 +64,40 @@ This project simulates a real-world enterprise data platform used for customer a
     -  Iterates through each file
     -  Ensures scalable ingestion
 
-Copy Activity
+    **Copy Activity**
 
-Transfers files from ADLS → Lakehouse Bronze
+    -  Transfers files from ADLS → Lakehouse Bronze
 
-Converts files into Delta format
+    -  Converts files into Delta format
 
-🥉 Bronze Layer (Raw Data)
+ # Bronze Layer (Raw Data)
 
-**Purpose:**
+   **Purpose:**
 
-Store raw ingested data
+    -  Store raw ingested data
+    -  No transformations
+    -  Maintain data lineage
+    -  Characteristics:
+    -  Stored as Delta tables
+    -  Full historical data
+    -  Append-only structure
 
-No transformations
+  # Silver Layer (Data Cleaning & Standardization)
 
-Maintain data lineage
+    -  Performed using PySpark Notebook:
+    -  Data Cleaning Operations
+    -  Removed duplicate records
+    -  Handled null values
+    -  Standardized date formats
+    -  Converted data types
+    -  Trimmed text columns
+    -  Validated foreign key relationships
+    -  Business Validation
+    -  Checked orphan orders
+    -  Verified payment consistency
+    -  Removed corrupted records
 
-Characteristics:
-
-Stored as Delta tables
-
-Full historical data
-
-Append-only structure
-
-🥈 Silver Layer (Data Cleaning & Standardization)
-
-Performed using PySpark Notebook:
-
-Data Cleaning Operations
-
-Removed duplicate records
-
-Handled null values
-
-Standardized date formats
-
-Converted data types
-
-Trimmed text columns
-
-Validated foreign key relationships
-
-Business Validation
-
-Checked orphan orders
-
-Verified payment consistency
-
-Removed corrupted records
-
-🥇 Gold Layer (Business Aggregations)
+  # Gold Layer (Business Aggregations)
 
 Created business-ready aggregated tables:
 
