@@ -49,27 +49,20 @@ This project simulates a real-world enterprise data platform used for customer a
     -  Enabled Hierarchical Namespace
     -  Created containers and folders
 
-**Step 2: Raw Data Ingestion**
+  **Step 2: Raw Data Ingestion**
 
-Uploaded CSV files into ADLS
+    -  Uploaded CSV files into ADLS
+    -  Designed folder structure by data domain
+    -  Ensured secure access using account keys
 
-Designed folder structure by data domain
+  **Step 3: Data Pipeline Implementation**
 
-Ensured secure access using account keys
-
-**Step 3: Data Pipeline Implementation**
-
-Get Metadata Activity
-
-Retrieves all files from ADLS folder dynamically
-
-Enables dynamic file processing
-
-ForEach Activity
-
-Iterates through each file
-
-Ensures scalable ingestion
+    -  Get Metadata Activity
+    -  Retrieves all files from ADLS folder dynamically
+    -  Enables dynamic file processing
+    -  ForEach Activity
+    -  Iterates through each file
+    -  Ensures scalable ingestion
 
 Copy Activity
 
