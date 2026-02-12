@@ -8,19 +8,19 @@ This project simulates a real-world enterprise data platform used for customer a
 
 # Business Objective
 
-**The goal of this project is to:**
+  **The goal of this project is to:**
 
-- Analyze customer purchasing behavior
+    - Analyze customer purchasing behavior
 
-  Track revenue trends
+    - Track revenue trends
 
-  Monitor payment performance
+    - Monitor payment performance
 
-  Evaluate customer support patterns
+    - Evaluate customer support patterns
 
-  Analyze website activity behavior
+    - Analyze website activity behavior
 
-  Generate KPIs for business decision-making
+    - Generate KPIs for business decision-making
 
 # Technologies Used
 
