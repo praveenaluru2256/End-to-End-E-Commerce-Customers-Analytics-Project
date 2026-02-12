@@ -19,25 +19,18 @@ This project simulates a real-world enterprise data platform used for customer a
 
 # Technologies Used
 
-  Azure Resource Group
+   -  Azure Resource Group
+   -  Azure Data Lake Storage Gen2
+   -  Microsoft Fabric
+   -  Data Factory Pipeline
+   -  Lakehouse Architecture
+   -  PySpark
+   -  Delta Tables
+   -  SQL
 
-  Azure Data Lake Storage Gen2
+# Medallion Architecture
 
-  Microsoft Fabric
-
-  Data Factory Pipeline
-
-  Lakehouse Architecture
-
-  PySpark
-
-  Delta Tables
-
-  SQL
-
- Medallion Architecture
-
-**Dataset Description**
+   **Dataset Description**
 
   The project includes the following datasets:
 
