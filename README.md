@@ -16,7 +16,6 @@ Medallion Architecture
 
 📂 Project Workflow
 1️⃣ Azure Setup
-
 Created Resource Group
 
 Created ADLS Gen2 with Hierarchical Namespace
