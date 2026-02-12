@@ -48,65 +48,16 @@ This project simulates a real-world enterprise data platform used for customer a
 
  1️⃣ Customers
 
-  customer_id
-
-  name
-
-  email
-
-  location
-
-  registration_date
-
-  2️⃣ Orders
-
-  order_id
-
-  customer_id
-
-  order_date
-
-  order_amount
-
-  product_category
-
-3️⃣ Payments
-
-payment_id
-
-order_id
-
-payment_method
-
-payment_status
-
-payment_date
-
-4️⃣ Support
-
-ticket_id
-
-customer_id
-
-issue_type
-
-resolution_status
-
-created_date
-
-5️⃣ Web Activity
-
-session_id
-
-customer_id
-
-page_visited
-
-session_duration
-
-device_type
-
-🔄 Detailed Data Engineering Workflow
+ 2️⃣ Orders
+ 
+ 3️⃣ Payments
+ 
+ 4️⃣ Support
+ 
+ 5️⃣ Web Activity
+ 
+ 🔄 Detailed Data Engineering Workflow
+ 
 Step 1: Azure Infrastructure Setup
 
 Created Resource Group
@@ -219,15 +170,3 @@ Orders per Month
 Revenue by Payment Method
 
 Top 10 Customers by Revenue
-
-📊 Data Modeling
-
-Created relationships:
-
-Customers → Orders (1:M)
-
-Orders → Payments (1:1 or 1:M)
-
-Customers → Support (1:M)
-
-Customers → Web Activity (1:M
