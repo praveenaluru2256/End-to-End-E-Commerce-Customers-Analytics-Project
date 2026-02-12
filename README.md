@@ -1,7 +1,26 @@
 # End-to-End-E-Commerce-Customers-Analytics-Project
 
-This project demonstrates the complete implementation of an end-to-end data engineering solution for analyzing e-commerce customer data using Azure Data Lake Storage Gen2 and Microsoft Fabric.
-The objective was to design a scalable data architecture that ingests raw CSV files, processes them using a Medallion Architecture (Bronze, Silver, Gold), and prepares business-ready datasets for reporting and analytics.
+This project demonstrates a complete modern data engineering solution for analyzing e-commerce customer behavior using a Lakehouse architecture built on Microsoft Fabric.
+
+The solution ingests raw CSV data into Azure Data Lake Storage Gen2, processes it using Fabric Data Pipelines, transforms data using PySpark notebooks, and implements the Medallion Architecture (Bronze, Silver, Gold) to deliver business-ready insights through semantic models and dashboards.
+
+This project simulates a real-world enterprise data platform used for customer analytics and business intelligence.
+
+* Business Objective
+
+The goal of this project is to:
+
+Analyze customer purchasing behavior
+
+Track revenue trends
+
+Monitor payment performance
+
+Evaluate customer support patterns
+
+Analyze website activity behavior
+
+Generate KPIs for business decision-making
 
 🧰 Technologies Used
 
