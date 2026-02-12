@@ -32,29 +32,22 @@ This project simulates a real-world enterprise data platform used for customer a
 
    **Dataset Description**
 
-  The project includes the following datasets:
+    The project includes the following datasets:
 
- 1️⃣ Customers
-
- 2️⃣ Orders
+    1️.Customers
+    2️.Orders
+    3️.Payments
+    4️.Support
+    5.Web Activity
  
- 3️⃣ Payments
+    Detailed Data Engineering Workflow
  
- 4️⃣ Support
- 
- 5️⃣ Web Activity
- 
- 🔄 Detailed Data Engineering Workflow
- 
-**Step 1: Azure Infrastructure Setup**
+  **Step 1: Azure Infrastructure Setup**
 
-Created Resource Group
-
-Created Azure Data Lake Storage Gen2
-
-Enabled Hierarchical Namespace
-
-Created containers and folders
+    -  Created Resource Group
+    -  Created Azure Data Lake Storage Gen2
+    -  Enabled Hierarchical Namespace
+    -  Created containers and folders
 
 **Step 2: Raw Data Ingestion**
 
