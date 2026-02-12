@@ -22,7 +22,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
   Generate KPIs for business decision-making
 
-*** Technologies Used**
+** Technologies Used**
 
   Azure Resource Group
 
@@ -42,7 +42,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
  Medallion Architecture
 
-*** Dataset Description**
+** Dataset Description**
 
   The project includes the following datasets:
 
