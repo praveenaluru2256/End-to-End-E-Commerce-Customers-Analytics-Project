@@ -22,7 +22,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
   Generate KPIs for business decision-making
 
-* Technologies Used
+*** Technologies Used**
 
   Azure Resource Group
 
@@ -42,7 +42,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
  Medallion Architecture
 
-* Dataset Description
+*** Dataset Description**
 
   The project includes the following datasets:
 
@@ -58,7 +58,7 @@ This project simulates a real-world enterprise data platform used for customer a
  
  🔄 Detailed Data Engineering Workflow
  
-Step 1: Azure Infrastructure Setup
+**Step 1: Azure Infrastructure Setup**
 
 Created Resource Group
 
@@ -68,7 +68,7 @@ Enabled Hierarchical Namespace
 
 Created containers and folders
 
-Step 2: Raw Data Ingestion
+**Step 2: Raw Data Ingestion**
 
 Uploaded CSV files into ADLS
 
@@ -76,7 +76,8 @@ Designed folder structure by data domain
 
 Ensured secure access using account keys
 
-Step 3: Data Pipeline Implementation
+**Step 3: Data Pipeline Implementation**
+
 Get Metadata Activity
 
 Retrieves all files from ADLS folder dynamically
@@ -97,7 +98,7 @@ Converts files into Delta format
 
 🥉 Bronze Layer (Raw Data)
 
-Purpose:
+**Purpose:**
 
 Store raw ingested data
 
