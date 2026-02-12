@@ -6,11 +6,11 @@ The solution ingests raw CSV data into Azure Data Lake Storage Gen2, processes i
 
 This project simulates a real-world enterprise data platform used for customer analytics and business intelligence.
 
-  # Business Objective
+# Business Objective
 
-  The goal of this project is to:
+**The goal of this project is to:**
 
-  - Analyze customer purchasing behavior
+- Analyze customer purchasing behavior
 
   Track revenue trends
 
@@ -22,7 +22,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
   Generate KPIs for business decision-making
 
- **Technologies Used **
+# Technologies Used
 
   Azure Resource Group
 
@@ -42,7 +42,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
  Medallion Architecture
 
-  **Dataset Description**
+**Dataset Description**
 
   The project includes the following datasets:
 
