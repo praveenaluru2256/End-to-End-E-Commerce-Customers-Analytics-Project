@@ -115,5 +115,3 @@ This project simulates a real-world enterprise data platform used for customer a
   -  Revenue per Customer
   -  Orders per Month
  -  Revenue by Payment Method
-
-Top 10 Customers by Revenue
