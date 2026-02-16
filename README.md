@@ -101,7 +101,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
     -  Created business-ready aggregated tables:
 
-KPIs Generated:
+#KPIs Generated:
 
 Total Revenue
 
