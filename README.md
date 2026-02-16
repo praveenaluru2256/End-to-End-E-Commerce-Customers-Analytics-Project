@@ -101,30 +101,19 @@ This project simulates a real-world enterprise data platform used for customer a
 
     -  Created business-ready aggregated tables:
 
-#KPIs Generated:
+  # KPIs Generated:
 
-Total Revenue
-
-Monthly Revenue
-
-Revenue by Product Category
-
-Customer Lifetime Value (CLV)
-
-Average Order Value
-
-Payment Success Rate
-
-Support Ticket Volume
-
-Web Session Analysis
-
-Example Aggregations:
-
-Revenue per Customer
-
-Orders per Month
-
-Revenue by Payment Method
+  -  Total Revenue
+  -  Monthly Revenue
+  -  Revenue by Product Category
+  -  Customer Lifetime Value (CLV)
+  -  Average Order Value
+  -  Payment Success Rate
+  -  Support Ticket Volume
+  -  Web Session Analysis
+  -  Example Aggregations:
+  -  Revenue per Customer
+  -  Orders per Month
+ -  Revenue by Payment Method
 
 Top 10 Customers by Revenue
