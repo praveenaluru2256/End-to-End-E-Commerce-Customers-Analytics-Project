@@ -118,3 +118,6 @@ This project simulates a real-world enterprise data platform used for customer a
   -  Revenue per Customer
   -  Orders per Month
  -  Revenue by Payment Method
+
+   <img width="1163" height="650" alt="image" src="https://github.com/user-attachments/assets/f7f6d5bc-7afd-4432-9d43-0adf478edb2f" />
+
