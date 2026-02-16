@@ -99,10 +99,15 @@ This project simulates a real-world enterprise data platform used for customer a
     -  Checked orphan orders
     -  Verified payment consistency
     -  Removed corrupted records
+    
+<img width="1163" height="649" alt="image" src="https://github.com/user-attachments/assets/b838ce3d-4b6c-461f-92bf-c7f3e4f82743" />
 
   # Gold Layer (Business Aggregations)
 
     -  Created business-ready aggregated tables:
+
+    <img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/5f90822a-be40-4696-96d4-5fe81a7c546f" />
+
 
   # KPIs Generated:
 
