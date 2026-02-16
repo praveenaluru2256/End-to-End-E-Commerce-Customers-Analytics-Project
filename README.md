@@ -106,7 +106,7 @@ This project simulates a real-world enterprise data platform used for customer a
 
     -  Created business-ready aggregated tables:
 
-    <img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/5f90822a-be40-4696-96d4-5fe81a7c546f" />
+   <img width="1163" height="653" alt="image" src="https://github.com/user-attachments/assets/5f90822a-be40-4696-96d4-5fe81a7c546f" />
 
 
   # KPIs Generated:
